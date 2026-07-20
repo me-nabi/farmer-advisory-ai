@@ -114,13 +114,18 @@ python scripts/generate_data.py --api_key YOUR_OPENAI_KEY
 5. All data cleaned, deduplicated, and formatted into ChatML
 
 ## Project Structure
-'''
-├── data/final_dataset_v4.jsonl   # Training dataset
-├── scripts/generate_data.py      # Dataset generation script
-├── train.py                      # Training script
-├── inference.py                  # Inference script
-└── requirements.txt
-'''
+
+```
+farmer-advisory-ai/
+├── data/
+│   └── final_dataset_v4.jsonl
+├── scripts/
+│   └── generate_data.py
+├── train.py
+├── inference.py
+├── requirements.txt
+└── README.md
+```
 ## Limitations
 
 - Pesticide names and dosages should be verified with local KVK before use
