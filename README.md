@@ -5,7 +5,7 @@
 **Crop advisory AI for Indian farmers in Hindi**
 
 [![Model](https://img.shields.io/badge/🤗%20Model-HuggingFace-yellow)](https://huggingface.co/me-nabi/farmer-advisory-hindi-qwen2.5-3b) 
-[![Dataset](https://img.shields.io/badge/🤗%20Dataset-21K%20examples-green)](https://huggingface.co/me-nabi/farmer-advisory-hindi-qwen2.5-3b)
+[![Dataset](https://img.shields.io/badge/🤗%20Dataset-21K%20examples-green)](https://huggingface.co/datasets/me-nabi/hindikrishi-farmer-advisory-dataset)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 </div>
